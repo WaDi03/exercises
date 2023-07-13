@@ -31,3 +31,5 @@ bin/
 test
 *.iml
 .idea/
+
+*.class
