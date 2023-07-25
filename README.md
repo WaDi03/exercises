@@ -1,6 +1,4 @@
-# JAVA-OCA Exercises
-
-
+## Exercises
 
 ## Getting started
 
