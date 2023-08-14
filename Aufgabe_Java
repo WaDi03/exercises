@@ -1,0 +1,11 @@
+Java Aufgabe:
+
+    erstelle eine Klasse Punkt mit 2 Attributen x und y
+    erstelle Getter / Setter für die Attribute
+    erstelle einen Kontruktor (alle Attribute) für die Klasse Punkt
+
+    Initialisiere (in einer anderen Klasse) in der main-Methode
+    3 Instanzen der Klasse Punkt mit beliebeigen Werten für X und Y
+
+    erstelle eine Methode berechneDistanz() in der Klasse Punkt,
+    die den Abstant zu einem beliebigen anderen Punkt berechnet und zurückgibt
